@@ -263,6 +263,7 @@ header > img{
   border: 0.5px solid #FFFFFF70;
   background: var(--lightblue-gray) !important;
 }
+<<<<<<< HEAD
 
 .recent-project{
   width: 100%;
@@ -318,6 +319,8 @@ header > img{
 
 
 
+=======
+>>>>>>> 53d8ac82f2d210d0b166a3465d5c73d1d80c7ac3
 
 .roll-2{
   min-height: 400px;
@@ -383,7 +386,11 @@ header > img{
   right: 5px;
   bottom: 5px;
   background: var(--lightblue-dark);
+<<<<<<< HEAD
   z-index: 5;
+=======
+  z-index: 3;
+>>>>>>> 53d8ac82f2d210d0b166a3465d5c73d1d80c7ac3
   position: absolute;
   clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
   background: url("images/me.png") no-repeat,var(--lightblue-dark);
@@ -411,10 +418,13 @@ header > img{
   body{
     padding-bottom: 50px;
   }
+<<<<<<< HEAD
   .recent-project div{
     width: 100%;
     transform: scale(0.95);
   }
+=======
+>>>>>>> 53d8ac82f2d210d0b166a3465d5c73d1d80c7ac3
   .bottomNav{
     display: flex;
   }
